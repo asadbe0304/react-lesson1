@@ -1,5 +1,6 @@
 import hawkins from "./../assets/png/havkins.png"
 import simmon from "./../assets/png/simmons.png"
+
 import next from "./../assets/svg/per.svg"
 import dot from "./../assets/svg/dot.svg"
 import dt from "./../assets/svg/dt.svg"
