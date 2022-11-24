@@ -1,6 +1,6 @@
-import person from "./png/moham.png"
-import second from './png/shihab.png'
-import prog from "./svg/svg.svg"
+import person from "./../assets/png/moham.png"
+import second from './../assets/png/shihab.png'
+import prog from "./../assets/svg/svg.svg"
 
 function Feed() {
   return (

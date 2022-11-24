@@ -1,6 +1,6 @@
-import search from "./svg/akar-icons_search.svg";
-import search2 from "./svg/s.svg";
-import hero from "./png/hero1.png"
+import search from "./../assets/svg/akar-icons_search.svg";
+import search2 from "./../assets/svg/s.svg";
+import hero from "./../assets/png/hero1.png"
 
 function Main() {
   return (
